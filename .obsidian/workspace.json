@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "607198b3d985f940",
+    "type": "split",
+    "children": [
+      {
+        "id": "773c989d1223a6e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc0a2a2502602ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KMsoftPLM/系统介绍/安全管理/三员授权.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6be478ff3d206fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-04/24-04-17-周三.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6286fd9d29272534",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a959fd9f5b312e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f49e0c6995adceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddbcb034e2fa190c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#测试标签",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c123fd61fc53df5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5d29be6d483643d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd253a73425ff920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a37b4dffa255241",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-04/24-04-17-周三.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b07a29c5d01fa5b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-04/24-04-17-周三.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07e15f68d6e50fc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efb0d6b3df8c0b1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024-04/24-04-17-周三.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "daily-notes:打开/创建今天的日记": false
+    }
+  },
+  "active": "e6be478ff3d206fd",
+  "lastOpenFiles": [
+    "KMsoftPLM/系统介绍/用户/超级管理员.md",
+    "KMsoftPLM/系统介绍/安全管理/三员授权.md",
+    "KMsoftPLM/系统介绍/安全管理/维护员授权.md",
+    "KMsoftPLM/操作步骤/账号启用.md",
+    "KMsoftPLM/数据库/用户表.md",
+    "KMsoftPLM/操作步骤/开目Cloud启动.md",
+    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418155009112.png",
+    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418153834304.png",
+    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418153203742.png",
+    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418153127932.png",
+    "KMsoftPLM/系统介绍/安全管理/assets",
+    "KMsoftPLM/系统介绍/安全管理",
+    "SanPinPLM/PDM/10.AutoCAD图纸模板.md",
+    "Obsidian/Obsidian附件管理插件Attachment Management.md",
+    "Obsidian/Obsidian自动更新相对路径插件.md",
+    "keyboard shortcuts/typora快捷键.md",
+    "keyboard shortcuts/1.md",
+    "Java/Java/插件记录.md",
+    "Java/Java/Java命名规范.md",
+    "KMsoftPLM/数据库/ceshi.md",
+    "KMsoftPLM/系统介绍/用户/assets",
+    "KMsoftPLM/系统介绍/用户",
+    "Daily/2024-04/24-04-17-周三.md",
+    "KMsoftPLM/assets/image-20240418090909326.png",
+    "KMsoftPLM/assets/image-20240418093059599.png",
+    "KMsoftPLM/数据库/assets/image-20240418112811637.png",
+    "KMsoftPLM/数据库/assets/image-20240418105717807.png",
+    "KMsoftPLM/数据库/测试1.md",
+    "KMsoftPLM/系统介绍/assets",
+    "Obsidian/assets/image-20240418113609862.png",
+    "测试/测试1.md",
+    "测试/assets",
+    "测试/assets/IMG-20240418113440174.png",
+    "测试1/assets",
+    "测试1",
+    "测试",
+    "KMsoftPLM/数据库/assets",
+    "Obsidian/Obsidian多库统一配置.md",
+    "测试2/测试2.md",
+    "SanPinPLM/EDM/20.服务端安装、端口设置.md",
+    "README.md",
+    "keyboard shortcuts/Obsidian快捷键.md",
+    "keyboard shortcuts/IDEA快捷键.md",
+    "Java/Java/Maven导入依赖报错.md",
+    "Daily/2024-04/24-04-15-周一.md",
+    "AutoCAD/4.草图设置.md",
+    "未命名.canvas"
+  ]
+}

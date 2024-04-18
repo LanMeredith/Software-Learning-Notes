@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets",
+  "defaultViewMode": "source",
+  "newLinkFormat": "relative"
+}
