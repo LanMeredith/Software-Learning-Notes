@@ -6,7 +6,7 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assets",
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "newLinkFormat": "relative",
   "pdfExportSettings": {
     "includeName": false,
@@ -14,5 +14,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "userIgnoreFilters": null
 }
