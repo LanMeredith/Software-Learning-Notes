@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6cd770635d15f4ff",
+        "id": "e451abf3e29e5e60",
         "type": "tabs",
         "children": [
           {
-            "id": "fd021919089c9cf4",
+            "id": "7ff1d1b91dd7af35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05/24-05-06-周一.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05/24-05-06-周一.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05/24-05-06-周一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily/2024-05/24-05-06-周一.md"
               }
             }
           }
@@ -139,55 +145,55 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "6f49e0c6995adceb",
+  "active": "7ff1d1b91dd7af35",
   "lastOpenFiles": [
-    "Daily/2024-04/24-04-27-周六.md",
-    "keyboard shortcuts/Obsidian快捷键.md",
-    "keyboard shortcuts/typora快捷键.md",
-    "keyboard shortcuts/IDEA快捷键.md",
-    "KMsoftPLM/系统介绍/系统管理/组织管理.md",
-    "KMsoftPLM/系统介绍/系统管理/职务与职务簇定义.md",
-    "KMsoftPLM/系统介绍/系统管理/用户组定义.md",
-    "KMsoftPLM/系统介绍/系统管理/角色定义.md",
+    "Daily/2024-05/assets/IMG-20240506131706503.png",
+    "Daily/2024-05/assets/IMG-20240506131654368.png",
+    "Daily/2024-05/assets/IMG-20240506131644293.png",
+    "Daily/2024-05/assets/IMG-20240506131637163.png",
+    "Daily/2024-05/assets/日虹模具事业部组织机构240305.pdf",
+    "Daily/2024-05/assets/IMG-20240506125508823.png",
+    "Daily/2024-05/assets",
+    "Daily/2024-04/24-04-30-周二.md",
+    "Daily/2024-05/24-05-05-周日.md",
+    "Daily/2024-05/24-05-04-周六.md",
+    "Daily/2024-05/24-05-03-周五.md",
+    "Daily/2024-05/24-05-01-周三.md",
+    "Daily/2024-05/24-05-06-周一.md",
     "KMsoftPLM/系统介绍/系统定制/资源管理器定义.md",
+    "KMsoftPLM/系统介绍/系统定制/菜单定义.md",
+    "KMsoftPLM/系统介绍/系统定制/assets/image-20240429140947530.png",
+    "KMsoftPLM/系统介绍/系统定制/首页定制.md",
     "KMsoftPLM/系统介绍/系统定制/系统配置.md",
-    "KMsoftPLM/系统介绍/我的桌面/我的任务.md",
-    "KMsoftPLM/系统介绍/数据导入/零部件与BOM导入.md",
-    "KMsoftPLM/系统介绍/系统定制/assets/image-20240426155940710.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/image-20240426155621232.png",
-    "README.md",
-    "SanPinPLM/PDM/10.AutoCAD图纸模板.md",
-    "SanPinPLM/PDM/11.Solidworks图纸模板.md",
-    "SanPinPLM/PDM/20.图纸与物料属性映射.md",
-    "SanPinPLM/PDM/30.物料分类设置.md",
-    "SanPinPLM/PDM/40.图号、物料编码设置.md",
-    "SanPinPLM/PDM/50.图纸文件名、图号、物料编码唯一性设置.md",
-    "SanPinPLM/PDM/60.零部件流程设置.md",
-    "SanPinPLM/PDM/70.报表模板设置.md",
-    "SanPinPLM/PDM/80.PLM在线菜单应用.md",
-    "SanPinPLM/PDM/90.标准物料库的创建.md",
-    "SanPinPLM/PDM/100.BOM的创建.md",
-    "SanPinPLM/PDM/110.编辑明细表.md",
-    "SanPinPLM/PDM/120.新物料的申请.md",
-    "SanPinPLM/PDM/Videos/2024年3月19日AutoCAD图纸模板.mp4",
+    "Word/assets/image-20240505151437073.png",
+    "Word/assets/image-20240505151205614.png",
+    "Word/assets/image-20240505151028735.png",
+    "Word/assets/image-20240505150957460.png",
+    "Word/assets/image-20240505150844049.png",
+    "Word/assets",
+    "Word/自动编号.md",
+    "Word",
+    "Daily/2024-04/24-04-25-周四.md",
+    "Daily/2024-04/24-04-26-周五.md",
+    "Daily/2024-04/24-04-27-周六.md",
+    "Daily/2024-04/24-04-29-周一.md",
+    "微软/assets",
+    "微软/将中文用户名修改为英文.md",
+    "微软",
+    "Java/Java/Java命名规范.md",
+    "Java/Java/插件记录.md",
+    "PPT/PPT动画排序.md",
+    "PPT/嵌入字体.md",
+    "Obsidian/Obsidian多库统一配置.md",
+    "Obsidian/插件/Obsidian自动更新相对路径插件.md",
+    "Obsidian/插件/Obsidian隐藏文件或文件夹.md",
+    "Obsidian/插件/Obsidian附件管理插件Attachment Management.md",
+    "Obsidian/插件/assets",
+    "Obsidian/插件",
+    "PPT/assets",
+    "PPT",
+    "KMsoftPLM/系统介绍/安全管理/功能授权.md",
     "未命名.canvas",
-    "KMsoftPLM/系统介绍/系统定制/assets",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502449.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502417.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502388.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502281.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502356.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502325.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502250.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502182.png",
-    "KMsoftPLM/系统介绍/系统定制",
-    "KMsoftPLM/系统介绍/数据导入",
-    "KMsoftPLM/系统介绍/我的桌面/assets",
-    "KMsoftPLM/系统介绍/我的桌面",
-    "SanPinPLM/PDM/Videos/未命名",
-    "SanPinPLM/PDM/Videos",
-    "未命名 1.canvas",
-    "KMsoftPLM/系统介绍/系统管理/assets",
-    "KMsoftPLM/系统介绍/系统管理"
+    "未命名 1.canvas"
   ]
 }

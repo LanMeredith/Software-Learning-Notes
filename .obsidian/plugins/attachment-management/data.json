@@ -9,9 +9,11 @@
   "dateFormat": "YYYYMMDDHHmmssSSS",
   "excludeExtensionPattern": "",
   "autoRenameAttachment": true,
-  "excludedPaths": "",
-  "excludePathsArray": [],
-  "excludeSubpaths": false,
+  "excludedPaths": "Vedio",
+  "excludePathsArray": [
+    "Vedio"
+  ],
+  "excludeSubpaths": true,
   "originalNameStorage": [],
   "overridePath": {},
   "disableNotification": false
