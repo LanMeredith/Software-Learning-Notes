@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/相关操作/链接.md",
+                "file": "Git/GitHub/分支管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "6836211637bf77d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/相关操作/链接.md"
+                "file": "Git/GitHub/分支管理.md"
               }
             }
           },
@@ -87,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/相关操作/链接.md",
+                "file": "Git/GitHub/分支管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +112,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/相关操作/链接.md",
+                "file": "Git/GitHub/分支管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fda9a77b13950f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -118,18 +137,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "hidden-folder-obsidian:显示文件夹": false,
-      "card-board:CardBoard": false
+      "hidden-folder-obsidian:显示文件夹": false
     }
   },
   "active": "8ad97bcc91b8f318",
   "lastOpenFiles": [
-    "Obsidian/相关操作/新建笔记.md",
+    "Git/GitHub/assets/IMG-20240622110151406.png",
+    "Git/GitHub/提交文件.md",
     "Obsidian/相关操作/链接.md",
+    "Obsidian/相关操作/新建笔记.md",
     "Obsidian/插件/Obsidian自动更新相对路径插件.md",
     "Obsidian/相关操作",
     "Obsidian/Obsidian多库统一配置.md",
@@ -143,7 +163,6 @@
     "Git/GitHub/assets/Pasted image 20240622104834.png",
     "Git/GitHub/assets/Pasted image 20240622104811.png",
     "Git/GitHub/assets/Pasted image 20240622104735.png",
-    "Git/GitHub/提交文件.md",
     "Git/GitHub/切换仓库.md",
     "Git/GitHub/GitHub Desktop介绍.md",
     "Git/GitHub/assets/Pasted image 20240622104639.png",
@@ -167,7 +186,6 @@
     "新宏波",
     "爱得信&日虹/爱得信&日虹实施.md",
     "爱得信&日虹/相关信息记录.md",
-    "爱得信&日虹/工作记录/24-06-20-爱得信培训.md",
     "爱得信&日虹/Files/~WRD0000.tmp",
     "爱得信&日虹/Files/~$信PLM蓝图方案.doc",
     "爱得信&日虹/Files/~$编码规则受控文件（试行）.docx",
