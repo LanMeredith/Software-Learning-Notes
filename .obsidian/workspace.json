@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e451abf3e29e5e60",
+        "id": "e8659e7d39bf4618",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff1d1b91dd7af35",
+            "id": "8ad97bcc91b8f318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05/24-05-06-周一.md",
+                "file": "Obsidian/相关操作/链接.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,20 +56,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "c8d0a973b482d43d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b5d29be6d483643d",
@@ -80,13 +72,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a37b4dffa255241",
+            "id": "efb0d6b3df8c0b1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/相关操作/链接.md"
+              }
+            }
+          },
+          {
+            "id": "94ba2a38fe48abd7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05/24-05-06-周一.md",
-                "collapseAll": true,
+                "file": "Obsidian/相关操作/链接.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,102 +99,81 @@
             }
           },
           {
-            "id": "b07a29c5d01fa5b7",
+            "id": "239ba8070daf3e10",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05/24-05-06-周一.md",
+                "file": "Obsidian/相关操作/链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "07e15f68d6e50fc7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "efb0d6b3df8c0b1f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily/2024-05/24-05-06-周一.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "hidden-folder-obsidian:显示文件夹": false
+      "command-palette:打开命令面板": false,
+      "hidden-folder-obsidian:显示文件夹": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "7ff1d1b91dd7af35",
+  "active": "8ad97bcc91b8f318",
   "lastOpenFiles": [
-    "Daily/2024-05/assets/IMG-20240506131706503.png",
-    "Daily/2024-05/assets/IMG-20240506131654368.png",
-    "Daily/2024-05/assets/IMG-20240506131644293.png",
-    "Daily/2024-05/assets/IMG-20240506131637163.png",
-    "Daily/2024-05/assets/日虹模具事业部组织机构240305.pdf",
-    "Daily/2024-05/assets/IMG-20240506125508823.png",
-    "Daily/2024-05/assets",
-    "Daily/2024-04/24-04-30-周二.md",
-    "Daily/2024-05/24-05-05-周日.md",
-    "Daily/2024-05/24-05-04-周六.md",
-    "Daily/2024-05/24-05-03-周五.md",
-    "Daily/2024-05/24-05-01-周三.md",
-    "Daily/2024-05/24-05-06-周一.md",
-    "KMsoftPLM/系统介绍/系统定制/资源管理器定义.md",
-    "KMsoftPLM/系统介绍/系统定制/菜单定义.md",
-    "KMsoftPLM/系统介绍/系统定制/assets/image-20240429140947530.png",
-    "KMsoftPLM/系统介绍/系统定制/首页定制.md",
-    "KMsoftPLM/系统介绍/系统定制/系统配置.md",
-    "Word/assets/image-20240505151437073.png",
-    "Word/assets/image-20240505151205614.png",
-    "Word/assets/image-20240505151028735.png",
-    "Word/assets/image-20240505150957460.png",
-    "Word/assets/image-20240505150844049.png",
-    "Word/assets",
-    "Word/自动编号.md",
-    "Word",
-    "Daily/2024-04/24-04-25-周四.md",
-    "Daily/2024-04/24-04-26-周五.md",
-    "Daily/2024-04/24-04-27-周六.md",
-    "Daily/2024-04/24-04-29-周一.md",
-    "微软/assets",
-    "微软/将中文用户名修改为英文.md",
-    "微软",
-    "Java/Java/Java命名规范.md",
-    "Java/Java/插件记录.md",
-    "PPT/PPT动画排序.md",
-    "PPT/嵌入字体.md",
-    "Obsidian/Obsidian多库统一配置.md",
+    "Obsidian/相关操作/新建笔记.md",
+    "Obsidian/相关操作/链接.md",
     "Obsidian/插件/Obsidian自动更新相对路径插件.md",
+    "Obsidian/相关操作",
+    "Obsidian/Obsidian多库统一配置.md",
     "Obsidian/插件/Obsidian隐藏文件或文件夹.md",
     "Obsidian/插件/Obsidian附件管理插件Attachment Management.md",
-    "Obsidian/插件/assets",
-    "Obsidian/插件",
-    "PPT/assets",
-    "PPT",
-    "KMsoftPLM/系统介绍/安全管理/功能授权.md",
+    "Git/Git介绍.md",
+    "Git/GitHub/新建仓库.md",
+    "Git/GitHub/assets/Pasted image 20240622105117.png",
+    "Git/GitHub/assets/Pasted image 20240622105038.png",
+    "Git/GitHub/assets/Pasted image 20240622104937.png",
+    "Git/GitHub/assets/Pasted image 20240622104834.png",
+    "Git/GitHub/assets/Pasted image 20240622104811.png",
+    "Git/GitHub/assets/Pasted image 20240622104735.png",
+    "Git/GitHub/提交文件.md",
+    "Git/GitHub/切换仓库.md",
+    "Git/GitHub/GitHub Desktop介绍.md",
+    "Git/GitHub/assets/Pasted image 20240622104639.png",
+    "Git/GitHub/assets/Pasted image 20240622104511.png",
+    "未命名.md",
+    "Git/GitHub/历史记录.md",
+    "Git/GitHub/分支管理.md",
+    "Git/GitHub/GitHub介绍.md",
+    "Git/GitHub/assets/Pasted image 20240622104259.png",
+    "Git/GitHub/移除仓库.md",
+    "Git/GitHub/assets/Pasted image 20240622103910.png",
+    "Git/GitHub/assets",
+    "PPT/嵌入字体.md",
+    "PPT/PPT动画排序.md",
+    "Word/自动编号.md",
+    "AutoCAD/7.属性定义.md",
+    "AutoCAD/CAD模板.7z",
+    "Git/GitHub/新增文件.md",
+    "新宏波/相关信息记录.md",
+    "维克机械/相关信息记录.md",
+    "新宏波",
+    "爱得信&日虹/爱得信&日虹实施.md",
+    "爱得信&日虹/相关信息记录.md",
+    "爱得信&日虹/工作记录/24-06-20-爱得信培训.md",
+    "爱得信&日虹/Files/~WRD0000.tmp",
+    "爱得信&日虹/Files/~$信PLM蓝图方案.doc",
+    "爱得信&日虹/Files/~$编码规则受控文件（试行）.docx",
+    "爱得信&日虹/Files/~$PLM蓝图方案.doc",
+    "爱得信&日虹/Files/~WRD0795.tmp",
+    "爱得信&日虹/Files/~WRL3382.tmp",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:KMsoftPLM  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907633,
+  "scale": 1.2414543899483554,
   "close": true
 }
