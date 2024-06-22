@@ -6,7 +6,7 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assets",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "newLinkFormat": "relative",
   "pdfExportSettings": {
     "includeName": false,

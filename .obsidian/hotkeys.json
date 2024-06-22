@@ -16,5 +16,14 @@
       ],
       "key": "R"
     }
+  ],
+  "card-board:open-card-board-plugin-0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }

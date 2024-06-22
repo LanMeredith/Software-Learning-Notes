@@ -1,5 +1,7 @@
 [
-  "attachment-management",
-  "update-relative-links",
-  "hidden-folder-obsidian"
+  "hidden-folder-obsidian",
+  "obsidian-tasks-plugin",
+  "card-board",
+  "nuke-orphans",
+  "consistent-attachments-and-links"
 ]

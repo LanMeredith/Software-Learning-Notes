@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8659e7d39bf4618",
+        "id": "1f71e66897c60e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "8ad97bcc91b8f318",
+            "id": "d23d026b7797eb88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/GitHub/分支管理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/GitHub/分支管理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/GitHub/分支管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,20 +105,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/GitHub/分支管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5fda9a77b13950f2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           }
@@ -137,16 +118,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
-      "hidden-folder-obsidian:显示文件夹": false
+      "hidden-folder-obsidian:隐藏文件夹": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "8ad97bcc91b8f318",
+  "active": "6f49e0c6995adceb",
   "lastOpenFiles": [
-    "Git/GitHub/assets/IMG-20240622110151406.png",
+    "未命名 1/11.md",
+    "未命名 1/assets/1.png",
+    "未命名/assets",
+    "未命名 1/assets",
+    "未命名 1",
+    "未命名",
+    "empty files.md",
+    "维克机械/Files/相关材料/企业组织结构.jpg",
+    "奥力迅/Files/服务记录/梁工问题记录.jpg",
+    "维克机械/Files/相关材料/产品层次结构图.png",
+    "维克机械/Files/服务记录/编号20240229服务单.jpg",
+    "维克机械/Files/服务记录/编号20240125服务单.jpg",
+    "维克机械/Files/服务记录/编号20240119服务单.jpg",
+    "维克机械/Files/文件模板/表单/生产任务详单/IMG_20240124_111242.jpg",
+    "维克机械/Files/文件模板/表单/生产任务详单/IMG_20240124_111236.jpg",
+    "维克机械/Files/文件模板/表单/生产任务详单/IMG_20240124_111230.jpg",
+    "爱得信&日虹/工作记录/24-05-11-项目启动会.md",
+    "Daily/2024-06/24-06-22-周六.md",
+    "维克机械/Files/签名/签名.pdf",
+    "Daily/2024-06/24-06-03-周一.md",
+    "未命名.canvas",
+    "Daily/2024-06/24-06-04-周二.md",
     "Git/GitHub/提交文件.md",
     "Obsidian/相关操作/链接.md",
     "Obsidian/相关操作/新建笔记.md",
@@ -157,42 +160,20 @@
     "Obsidian/插件/Obsidian附件管理插件Attachment Management.md",
     "Git/Git介绍.md",
     "Git/GitHub/新建仓库.md",
-    "Git/GitHub/assets/Pasted image 20240622105117.png",
-    "Git/GitHub/assets/Pasted image 20240622105038.png",
-    "Git/GitHub/assets/Pasted image 20240622104937.png",
-    "Git/GitHub/assets/Pasted image 20240622104834.png",
-    "Git/GitHub/assets/Pasted image 20240622104811.png",
-    "Git/GitHub/assets/Pasted image 20240622104735.png",
     "Git/GitHub/切换仓库.md",
     "Git/GitHub/GitHub Desktop介绍.md",
-    "Git/GitHub/assets/Pasted image 20240622104639.png",
-    "Git/GitHub/assets/Pasted image 20240622104511.png",
     "未命名.md",
     "Git/GitHub/历史记录.md",
     "Git/GitHub/分支管理.md",
     "Git/GitHub/GitHub介绍.md",
-    "Git/GitHub/assets/Pasted image 20240622104259.png",
     "Git/GitHub/移除仓库.md",
-    "Git/GitHub/assets/Pasted image 20240622103910.png",
     "Git/GitHub/assets",
     "PPT/嵌入字体.md",
     "PPT/PPT动画排序.md",
     "Word/自动编号.md",
-    "AutoCAD/7.属性定义.md",
     "AutoCAD/CAD模板.7z",
-    "Git/GitHub/新增文件.md",
-    "新宏波/相关信息记录.md",
-    "维克机械/相关信息记录.md",
     "新宏波",
-    "爱得信&日虹/爱得信&日虹实施.md",
-    "爱得信&日虹/相关信息记录.md",
     "爱得信&日虹/Files/~WRD0000.tmp",
-    "爱得信&日虹/Files/~$信PLM蓝图方案.doc",
-    "爱得信&日虹/Files/~$编码规则受控文件（试行）.docx",
-    "爱得信&日虹/Files/~$PLM蓝图方案.doc",
-    "爱得信&日虹/Files/~WRD0795.tmp",
-    "爱得信&日虹/Files/~WRL3382.tmp",
-    "未命名.canvas",
     "未命名 1.canvas"
   ]
 }
