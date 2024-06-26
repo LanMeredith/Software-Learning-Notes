@@ -28,3 +28,5 @@
 所以***推荐开启自动重命名附件***（Automatically rename attachment）功能。开启后如果不配置附件的格式（Attachment format）的话，附件会按默认的方式进行重命名（反正都要重命名，配不配置无所谓了）
 
 ![image-20240418113609862](assets/IMG-20240501121645082.png)
+
+经过测试发现，这个附件管理插件存在一个重要的bug，在笔记中进行引用后，移动笔记无法忽略指定文件夹下的文件，会将所有被引用的文件都给移动走，在此建议使用：[Consistent Attachments and Links](Obsidian附件管理插件Consistent%20Attachments%20and%20Links.md)插件

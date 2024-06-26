@@ -3,5 +3,6 @@
   "obsidian-tasks-plugin",
   "card-board",
   "nuke-orphans",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "update-relative-links"
 ]

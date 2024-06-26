@@ -67,7 +67,12 @@
             }
           }
         ],
-        "filters": [],
+        "filters": [
+          {
+            "tag": "pathFilter",
+            "data": "Daily"
+          }
+        ],
         "filterPolarity": "Allow",
         "filterScope": "Both",
         "name": "Tasks",
