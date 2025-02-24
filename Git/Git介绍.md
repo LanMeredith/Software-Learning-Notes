@@ -24,11 +24,11 @@ Git是一种分布式版本控制系统，由Linus Torvalds在2005年为了更�
 
 ### 工作流程
 
-1. **初始化仓库**：在项目根目录下运行`git init`命令来创建一个新的Git仓库。
-2. **添加文件**：使用`git add <file>`命令将文件添加到暂存区。
-3. **提交更改**：使用`git commit -m "commit message"`命令提交暂存区的更改，完成一次版本提交。
-4. **创建与切换分支**：使用`git branch <branch-name>`创建新分支，`git checkout <branch-name>`切换到指定分支。
-5. **合并分支**：在完成开发后，可以使用`git merge <branch>`将分支合并回主分支。
-6. **与远程仓库交互**：使用`git remote add origin <repository-url>`添加远程仓库，然后通过`git push`推送本地更改，或`git pull`拉取远程更新。
+1. **初始化仓库**：在项目根目录下运行`git init`命令来创建一个新的Git仓库
+2. **添加文件**：使用`git add <file>`命令将文件添加到暂存区
+3. **提交更改**：使用`git commit -m "commit message"`命令提交暂存区的更改，完成一次版本提交
+4. **创建与切换分支**：使用`git branch <branch-name>`创建新分支，`git checkout <branch-name>`切换到指定分支
+5. **合并分支**：在完成开发后，可以使用`git merge <branch>`将分支合并回主分支
+6. **与远程仓库交互**：使用`git remote add origin <repository-url>`添加远程仓库，然后通过`git push`推送本地更改，或`git pull`拉取远程更新
 
-Git已成为现代软件开发不可或缺的工具之一，广泛应用于开源项目和商业项目中，极大地提高了软件开发的效率和质量。
+Git已成为现代软件开发不可或缺的工具之一，广泛应用于开源项目和商业项目中，极大地提高了软件开发的效率和质量

@@ -2,7 +2,7 @@
 
 在 Obsidian 中做简单的任务管理，就需要 “ Tasks ” 插件,它可进行任务添加，设定任务日期，快速汇总查询任务便于进行项目管理。相比 dataview tasks 插件命令更简洁
 
-且创建的任务可搭配[看板任务管理插件CardBoard](Obsidian看板任务管理插件CardBoard.md)使用
+且创建的任务可搭配 [看板任务管理插件CardBoard](Obsidian看板任务管理插件CardBoard.md) 使用
 
 # 操作
 

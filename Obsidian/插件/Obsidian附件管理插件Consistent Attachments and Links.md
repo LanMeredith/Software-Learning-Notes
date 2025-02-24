@@ -1,6 +1,6 @@
 # 介绍
 
-这个插件对附件的管理功能相较于[Attachment Management](Obsidian附件管理插件Attachment%20Management（不推荐）.md)更完善，如下是插件的配置页面
+这个插件对附件的管理功能相较于 [Attachment Management](Obsidian附件管理插件Attachment%20Management（不推荐）.md) 更完善，如下是插件的配置页面
 
 ![image-20240507140318650](assets/image-20240507140318650.png)
 
@@ -22,6 +22,6 @@
 
 ## 优点
 
-可以忽略掉指定文件夹，或者指定文件，在此上体验胜于[Attachment Management（不推荐）](Obsidian附件管理插件Attachment%20Management（不推荐）.md)
+可以忽略掉指定文件夹，或者指定文件，在此上体验胜于 [Attachment Management（不推荐）](Obsidian附件管理插件Attachment%20Management（不推荐）.md)
 
-可以自动更新引用链接，使用该插件可以在一定程度上代替[Update Relative Links](Obsidian自动更新相对路径插件Update%20Relative%20Links.md)插件
+可以自动更新引用链接，使用该插件可以在一定程度上代替 [Update Relative Links](Obsidian自动更新相对路径插件Update%20Relative%20Links.md) 插件
