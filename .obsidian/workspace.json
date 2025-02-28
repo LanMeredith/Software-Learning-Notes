@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2058b5774f7baa2",
+            "id": "9dc82d4bad0e4bc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SanPinPLM/相关操作/2.PDM/56.文档关联物料.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "56.文档关联物料"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SanPinPLM/相关操作/2.PDM/56.文档关联物料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "56.文档关联物料 的大纲"
             }
           },
           {
@@ -170,44 +175,46 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "262fdb4633fcf55d",
+  "active": "9dc82d4bad0e4bc8",
   "lastOpenFiles": [
+    "SanPinPLM/相关操作/0.SETOUT/10.数据库安装.md",
+    "SanPinPLM/相关操作/2.PDM/57.同步图纸内属性到文档属性.md",
+    "SanPinPLM/相关操作/2.PDM/58.图号生成.md",
     "SanPinPLM/相关操作/1.EDM/28.AutoCAD图纸模板制作.md",
-    "SanPinPLM/相关操作/4.other/25.编码器设置.md",
-    "SanPinPLM/相关操作/1.EDM/80.文档分类设置.md",
-    "SanPinPLM/相关操作/1.EDM/65.文档模板.md",
-    "SanPinPLM/相关操作/1.EDM/assets/Pasted image 20250224185925.png",
-    "SanPinPLM/相关操作/1.EDM/assets/Pasted image 20250224185549.png",
-    "SanPinPLM/相关操作/1.EDM/assets/Pasted image 20250224185414.png",
-    "SanPinPLM/相关操作/1.EDM/70.电子签章设置.md",
-    "SanPinPLM/相关操作/1.EDM/32.浩辰CAD图纸模板制作.md",
-    "SanPinPLM/相关操作/1.EDM/31.浩辰CAD机械版图纸模板制作.md",
-    "SanPinPLM/相关操作/1.EDM/215.文档变更管理.md",
-    "SanPinPLM/相关操作/1.EDM/210.文档变更记录分类.md",
-    "SanPinPLM/相关操作/1.EDM/205.窗体表单查询.md",
-    "SanPinPLM/相关操作/1.EDM/200.Delphi脚本.md",
-    "SanPinPLM/相关操作/1.EDM/75.文档审批流程模板制作.md",
-    "SanPinPLM/相关操作/1.EDM/100.执行文档变更流程.md",
+    "SanPinPLM/相关操作/2.PDM/56.文档关联物料.md",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250228123016.png",
+    "SanPinPLM/相关操作/2.PDM/54.借用与编辑借用物料.md",
+    "SanPinPLM/相关操作/2.PDM/50.创建与编辑物料.md",
+    "SanPinPLM/相关操作/2.PDM/61.BOM导出.md",
+    "SanPinPLM/相关操作/2.PDM/60.BOM搭建.md",
+    "SanPinPLM/相关操作/2.PDM/59.把零部件放入标准物料库.md",
+    "SanPinPLM/相关操作/2.PDM/30.图号、物料编码唯一性设置.md",
+    "SanPinPLM/相关操作/4.other/200.Delphi脚本.md",
+    "SanPinPLM/相关操作/0.SETOUT/12.服务端安装、端口设置.md",
+    "SanPinPLM/相关操作/0.SETOUT/15.服务端升级.md",
     "SanPinPLM/相关操作/0.SETOUT/20.浏览器安装、调试.md",
-    "SanPinPLM/相关操作/1.EDM/30.CAXA图纸模板制作.md",
-    "SanPinPLM/相关操作/1.EDM/29.中望CAD图纸模板制作.md",
-    "各软件安装教程/assets/Pasted image 20250224150653.png",
-    "各软件安装教程/assets/Pasted image 20250224150600.png",
-    "各软件安装教程/assets/Pasted image 20250224145445.png",
-    "各软件安装教程/assets/Pasted image 20250224145337.png",
-    "各软件安装教程/CAXA2020安装破解.md",
-    "各软件安装教程/CAXA2022安装破解.md",
-    "各软件安装教程/assets/Pasted image 20250224145244.png",
-    "各软件安装教程/Altium Designer 16安装破解.md",
-    "KMmpm/系统介绍/安全管理/功能授权.md",
-    "KMmpm/相关操作/容器目录管理/10.容器管理.md",
-    "KMmpm/相关操作/容器目录管理/20.目录管理.md",
-    "KMmpm/相关操作/容器目录管理/assets/Pasted image 20250224142515.png",
-    "KMmpm/系统介绍/系统定制/目录模板.md",
-    "KMmpm/相关操作/容器目录管理/assets/Pasted image 20250224133923.png",
-    "KMmpm/系统介绍/系统定制/系统配置.md",
-    "KMmpm/系统介绍/系统定制/系统功能扩展.md",
-    "SanPinPLM/相关操作/1.EDM/5.文件生命周期.md",
+    "SanPinPLM/相关操作/2.PDM/13.CAXA接口安装、属性映射.md",
+    "SanPinPLM/相关操作/2.PDM/10.AutoCAD接口安装.md",
+    "SanPinPLM/相关操作/1.EDM/3.文档命名唯一性设置.md",
+    "SanPinPLM/相关操作/2.PDM/Files/Documents/~$BOM表导出模板.xlsx",
+    "SanPinPLM/数据库/数据库.md",
+    "SanPinPLM/报错处理/将截断字符串或二进制数据.md",
+    "SanPinPLM/数据库",
+    "SanPinPLM/报错处理/Code：111 文件名太长.md",
+    "SanPinPLM/相关操作/1.EDM/26.Word文档模板制作.md",
+    "SanPinPLM/相关操作/1.EDM/25.Excel文档模板制作.md",
+    "SanPinPLM/相关操作/1.EDM/10.文件版本管理.md",
+    "SanPinPLM/相关操作/1.EDM/80.文档分类设置.md",
+    "SanPinPLM/相关操作/1.EDM/60.CAD接口使用.md",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225103406.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225102811.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225102303.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225102049.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225101906.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225101257.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225101041.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225101005.png",
+    "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225095812.png",
     "未命名.canvas",
     "KMmpm/系统介绍/数据建模/对象类定义/assets",
     "KMmpm/系统介绍/数据建模/对象类定义",
