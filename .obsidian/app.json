@@ -5,5 +5,5 @@
   "strictLineBreaks": true,
   "useMarkdownLinks": true,
   "showLineNumber": false,
-  "trashOption": "system"
+  "trashOption": "local"
 }
