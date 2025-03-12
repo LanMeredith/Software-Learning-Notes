@@ -11,10 +11,10 @@
             "id": "c42cf36058a8bc53",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -157,7 +157,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "262fdb4633fcf55d",
+  "active": "c42cf36058a8bc53",
   "lastOpenFiles": [
     "SanPinPLM/相关操作/0.SETOUT/10.数据库安装.md",
     "SanPinPLM/相关操作/1.EDM/5.文件生命周期.md",
